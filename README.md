@@ -1,2 +1,2 @@
-# Mynthan_Djangodevelopment-
+# Mynthan_Djangodevelopment
 Develop an Django Project
